@@ -5,9 +5,6 @@ from __future__ import print_function
 
 import print_log
 
-
-
-
 ####################################################
 ## 2. Variables and Collections
 ## 2. 变量和集合
