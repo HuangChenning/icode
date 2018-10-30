@@ -1,0 +1,12 @@
+2018-10-30 11:51:14,868 autoInstall.py[line:45] INFO **************Auto Install*****************
+2018-10-30 11:51:38,076 autoInstall.py[line:45] INFO **************Auto Install*****************
+2018-10-30 11:51:39,296 autoInstall.py[line:45] INFO **************Auto Install*****************
+2018-10-30 11:51:41,996 autoInstall.py[line:45] INFO **************Auto Install*****************
+2018-10-30 11:52:47,637 autoInstall.py[line:45] INFO **************Auto Install*****************
+2018-10-30 11:53:27,880 autoInstall.py[line:45] INFO **************Auto Install*****************
+2018-10-30 12:06:47,270 autoInstall.py[line:45] INFO **************Auto Install*****************
+2018-10-30 12:07:32,266 autoInstall.py[line:45] INFO **************Auto Install*****************
+2018-10-30 12:13:51,687 autoInstall.py[line:45] INFO **************Auto Install*****************
+2018-10-30 12:13:51,687 createUser.py[line:33] INFO Create User Oracle
+2018-10-30 12:13:51,687 createUser.py[line:34] INFO Username:  Oracle
+2018-10-30 12:13:51,687 createUser.py[line:35] INFO Password:  oracle_123
